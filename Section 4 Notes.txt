@@ -1,0 +1,13 @@
+
+Block generic containers - divs
+Inline generic containers - spans
+
+image and anchor tags is useful.
+
+Elements/Tags is features of html , attributes are information we pass to elements.
+
+Attributes follow key value pair where something = something in quotes
+e.g <tag name="value"></tag>
+
+
+Relative path is when page is relative to where I am and keeps everything same and adds on /page.html or just regardless of whee you are just when you want to go to Google. Both is anchor tags.
